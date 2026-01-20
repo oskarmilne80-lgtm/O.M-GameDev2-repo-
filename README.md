@@ -2,6 +2,6 @@
 I’m going to be making a simple FPS (first-person shooter) game. I’ll start by working out the basic movement, shooting, and bullet impacts, followed by reloading and ADS (aim down sights). I’m using a tutorial video series, 
 so I’ll inevitably be changing things down the line, but I won’t be using the same animations. I want to personalize the game by doing things slightly differently and using some of my own creativity."
 
-THE CORE LOOP 
+## THE CORE LOOP 
 the core gameplay is shooting, and impacts are functional but still in the early stages. After I refine the basic feel, I plan to integrate reloading and ADS mechanics.
 While I'm following a tutorial series for the foundational logic, I’m diverging from the guide to implement my own custom animations and creative adjustments, ensuring the game is a little more unique look and feel than the tutorial series.
