@@ -5,3 +5,6 @@ so I’ll inevitably be changing things down the line, but I won’t be using th
 ## THE CORE LOOP 
 the core gameplay is shooting, and impacts are functional but still in the early stages. After I refine the basic feel, I plan to integrate reloading and ADS mechanics.
 While I'm following a tutorial series for the foundational logic, I’m diverging from the guide to implement my own custom animations and creative adjustments, ensuring the game is a little more unique look and feel than the tutorial series.
+
+## group project
+I will also be participating in a group project with Group 2 on Canvas. We’ll be making a game inspired by Granny, which focuses on stealth and puzzle-solving as players try to escape a house.
