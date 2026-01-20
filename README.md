@@ -9,3 +9,5 @@ While I'm following a tutorial series for the foundational logic, I’m divergin
 ## group project
 I will also be participating in a group project with Group 2 on Canvas. We’ll be making a game inspired by Granny, which focuses on stealth and puzzle-solving as players try to escape a house.
 ![pic](https://github.com/oskarmilne80-lgtm/O.M-GameDev2-repo-/blob/main/images/03aaBruU4YchhD6MkESCRns-10.webp)
+
+![pic2](https://github.com/oskarmilne80-lgtm/O.M-GameDev2-repo-/blob/main/images/maxresdefault%20(1).jpg)
